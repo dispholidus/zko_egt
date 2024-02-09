@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Silme işlemi başarılı</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Silme işlemi başarısız oldu</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Öğrenci ID alanını doldurmadan işlem yapamazsınız</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Tüm alanlar doldurulmalıdır</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>İlgili veriler güncellenmiştir</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>İlgili veriler güncellenememiştir</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Kayıt başarılı</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZKO_EGT_HRD_001</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Kayıt sırasında hata</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
